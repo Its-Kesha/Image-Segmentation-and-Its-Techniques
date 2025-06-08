@@ -1,4 +1,4 @@
-# Image-Segmentation-and-Its-Techniques
+# Image Segmentation and Its Techniques
  In digital image processing and computer vision, image segmentation is a process
  that involves separating a wide variety of images into various segments. The goal
  of this procedure is to simplify and improve the representation of an image.
