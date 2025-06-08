@@ -2,6 +2,7 @@
  In digital image processing and computer vision, image segmentation is a process
  that involves separating a wide variety of images into various segments. The goal
  of this procedure is to simplify and improve the representation of an image.
+ 
  The role of image segmentation is very important in image processing. The
  partitioning of an image into multiple segments makes it easier for further process.
  Thus, after completing the operations, image will be re-joined. Segmentation in
